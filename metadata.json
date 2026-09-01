@@ -1,0 +1,8 @@
+{
+  "name": "StageFlow AI Design System",
+  "description": "Enterprise debt collection operations console localized for Philippine banking, fintech, lending, and ECA/ACA recovery operations with multi-lingual Taglish AI guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
